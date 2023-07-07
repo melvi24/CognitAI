@@ -7,17 +7,17 @@ import 'package:chat_gpt_sdk/chat_gpt_sdk.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:speech_to_text/speech_recognition_result.dart';
-import 'package:app/helpers/app_color.dart';
-import 'package:app/helpers/app_controller.dart';
-import 'package:app/helpers/constants.dart';
-import 'package:app/helpers/my_pref.dart';
-import 'package:app/helpers/translator_gpt.dart';
-import 'package:app/helpers/utility.dart';
-import 'package:app/helpers/extention.dart';
-import 'package:app/models/message_stream.dart';
-import 'package:app/models/speech_object.dart';
-import 'package:app/services/repository/user_repository.dart';
-import 'package:app/widgets/url_text/custom_url_text.dart';
+import 'package:appchat/helpers/app_color.dart';
+import 'package:appchat/helpers/app_controller.dart';
+import 'package:appchat/helpers/constants.dart';
+import 'package:appchat/helpers/my_pref.dart';
+import 'package:appchat/helpers/translator_gpt.dart';
+import 'package:appchat/helpers/utility.dart';
+import 'package:appchat/helpers/extention.dart';
+import 'package:appchat/models/message_stream.dart';
+import 'package:appchat/models/speech_object.dart';
+import 'package:appchat/services/repository/user_repository.dart';
+import 'package:appchat/widgets/url_text/custom_url_text.dart';
 
 import 'package:speech_to_text/speech_to_text.dart' as stt;
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:app/widgets/popup_menu2/popup_menu_2.dart';
+import 'package:appchat/widgets/popup_menu2/popup_menu_2.dart';
 
 class ContextualMenu extends StatefulWidget {
   /// the child is a [Widget]

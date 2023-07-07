@@ -1,7 +1,7 @@
 import 'package:bootstrap_icons/bootstrap_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:app/widgets/popup_menu2/popup_menu_2.dart';
+import 'package:appchat/widgets/popup_menu2/popup_menu_2.dart';
 
 class OptionMessage extends StatelessWidget {
   OptionMessage(

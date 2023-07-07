@@ -2,11 +2,11 @@ import 'package:bootstrap_icons/bootstrap_icons.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:app/auths/auth_screen.dart';
-import 'package:app/helpers/app_color.dart';
-import 'package:app/helpers/constants.dart';
-import 'package:app/widgets/swipeable_button_view/swipeable_button_view.dart';
-import 'package:app/helpers/app_controller.dart';
+import 'package:appchat/auths/auth_screen.dart';
+import 'package:appchat/helpers/app_color.dart';
+import 'package:appchat/helpers/constants.dart';
+import 'package:appchat/widgets/swipeable_button_view/swipeable_button_view.dart';
+import 'package:appchat/helpers/app_controller.dart';
 
 class IntroPage extends StatelessWidget {
   IntroPage({super.key, required this.appController});

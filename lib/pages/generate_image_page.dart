@@ -3,14 +3,14 @@ import 'package:chat_gpt_sdk/chat_gpt_sdk.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
 import 'package:get/get.dart';
-import 'package:app/helpers/app_color.dart';
-import 'package:app/helpers/app_controller.dart';
-import 'package:app/helpers/constants.dart';
-import 'package:app/helpers/utility.dart';
-import 'package:app/models/message_stream.dart';
-import 'package:app/pages/full_image_page.dart';
-import 'package:app/services/repository/user_repository.dart';
-import 'package:app/widgets/commons/cache_image.dart';
+import 'package:appchat/helpers/app_color.dart';
+import 'package:appchat/helpers/app_controller.dart';
+import 'package:appchat/helpers/constants.dart';
+import 'package:appchat/helpers/utility.dart';
+import 'package:appchat/models/message_stream.dart';
+import 'package:appchat/pages/full_image_page.dart';
+import 'package:appchat/services/repository/user_repository.dart';
+import 'package:appchat/widgets/commons/cache_image.dart';
 
 class GenerateImagePage extends StatelessWidget {
   GenerateImagePage({super.key}) {

@@ -1,9 +1,9 @@
 import 'package:bootstrap_icons/bootstrap_icons.dart';
 import 'package:flutter/material.dart';
 
-import 'package:app/helpers/constants.dart';
+import 'package:appchat/helpers/constants.dart';
 import 'dart:math';
-import 'package:app/auths/widgets/fade_slide_transition.dart';
+import 'package:appchat/auths/widgets/fade_slide_transition.dart';
 import 'package:get/get.dart';
 
 class Header extends StatelessWidget {

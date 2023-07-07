@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:app/widgets/ball_loading/delay_tween.dart';
-import 'package:app/widgets/ball_loading/ball.dart';
+import 'package:appchat/widgets/ball_loading/delay_tween.dart';
+import 'package:appchat/widgets/ball_loading/ball.dart';
 
 ///
 /// desc:

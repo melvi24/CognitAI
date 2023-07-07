@@ -2,8 +2,8 @@ import 'dart:core';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:app/widgets/popup_menu2/popup_menu_2.dart';
-import 'package:app/widgets/popup_menu2/popup_menu_item_widget.dart';
+import 'package:appchat/widgets/popup_menu2/popup_menu_2.dart';
+import 'package:appchat/widgets/popup_menu2/popup_menu_item_widget.dart';
 import 'triangle_painter.dart';
 
 typedef PopupMenuStateChanged = Function(bool isShow);

@@ -8,18 +8,18 @@ import 'package:flutter/services.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:sign_in_with_apple/sign_in_with_apple.dart';
 import 'package:uuid/uuid.dart';
-import 'package:app/app/home_page.dart';
-import 'package:app/auths/widgets/fade_slide_transition.dart';
-import 'package:app/auths/widgets/register_form.dart';
-import 'package:app/helpers/app_color.dart';
-import 'package:app/helpers/app_controller.dart';
-import 'package:app/helpers/utility.dart';
-import 'package:app/services/repository/user_repository.dart';
+import 'package:appchat/app/home_page.dart';
+import 'package:appchat/auths/widgets/fade_slide_transition.dart';
+import 'package:appchat/auths/widgets/register_form.dart';
+import 'package:appchat/helpers/app_color.dart';
+import 'package:appchat/helpers/app_controller.dart';
+import 'package:appchat/helpers/utility.dart';
+import 'package:appchat/services/repository/user_repository.dart';
 
 import 'widgets/custom_clippers/index.dart';
 import 'widgets/header.dart';
-import 'package:app/helpers/constants.dart';
-import 'package:app/widgets/typewriter/type_text.dart';
+import 'package:appchat/helpers/constants.dart';
+import 'package:appchat/widgets/typewriter/type_text.dart';
 import 'package:get/get.dart';
 import 'package:crypto/crypto.dart';
 

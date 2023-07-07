@@ -3,16 +3,16 @@ import 'dart:convert';
 import 'package:bootstrap_icons/bootstrap_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:app/app/home_page.dart';
-import 'package:app/helpers/app_controller.dart';
-import 'package:app/helpers/constants.dart';
-import 'package:app/helpers/utility.dart';
-import 'package:app/pages/packages/widgets/card_package_item.dart';
+import 'package:appchat/app/home_page.dart';
+import 'package:appchat/helpers/app_controller.dart';
+import 'package:appchat/helpers/constants.dart';
+import 'package:appchat/helpers/utility.dart';
+import 'package:appchat/pages/packages/widgets/card_package_item.dart';
 import 'package:pay/pay.dart';
-import 'package:app/payments/pay_with_applepay.dart';
-import 'package:app/payments/pay_with_googlepay.dart';
-import 'package:app/payments/pay_with_paypal.dart';
-import 'package:app/services/repository/user_repository.dart';
+import 'package:appchat/payments/pay_with_applepay.dart';
+import 'package:appchat/payments/pay_with_googlepay.dart';
+import 'package:appchat/payments/pay_with_paypal.dart';
+import 'package:appchat/services/repository/user_repository.dart';
 
 class PackageOrder extends StatelessWidget {
   final dynamic item;

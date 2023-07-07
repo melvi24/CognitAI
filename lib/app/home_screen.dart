@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:app/helpers/ads_helper.dart';
-import 'package:app/helpers/app_color.dart';
-import 'package:app/helpers/app_controller.dart';
-import 'package:app/helpers/constants.dart';
-import 'package:app/helpers/utility.dart';
-import 'package:app/pages/chatbot_page.dart';
-import 'package:app/pages/generate_image_page.dart';
-import 'package:app/pages/packages/package_page.dart';
-import 'package:app/pages/profile_page.dart';
-import 'package:app/widgets/commons/cache_image.dart';
-import 'package:app/pages/voice_text_page.dart';
-import 'package:app/pages/scan_ocr_page.dart';
+import 'package:appchat/helpers/ads_helper.dart';
+import 'package:appchat/helpers/app_color.dart';
+import 'package:appchat/helpers/app_controller.dart';
+import 'package:appchat/helpers/constants.dart';
+import 'package:appchat/helpers/utility.dart';
+import 'package:appchat/pages/chatbot_page.dart';
+import 'package:appchat/pages/generate_image_page.dart';
+import 'package:appchat/pages/packages/package_page.dart';
+import 'package:appchat/pages/profile_page.dart';
+import 'package:appchat/widgets/commons/cache_image.dart';
+import 'package:appchat/pages/voice_text_page.dart';
+import 'package:appchat/pages/scan_ocr_page.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key, required this.appController});

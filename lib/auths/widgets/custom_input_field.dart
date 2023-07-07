@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:app/helpers/constants.dart';
+import 'package:appchat/helpers/constants.dart';
 
 class CustomInputField extends StatelessWidget {
   final String label;

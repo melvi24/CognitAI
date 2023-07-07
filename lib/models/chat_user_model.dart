@@ -1,4 +1,4 @@
-import 'package:app/models/chat_model.dart';
+import 'package:appchat/models/chat_model.dart';
 
 class ChatUserMessage {
   String? key;

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:app/helpers/app_color.dart';
-import 'package:app/helpers/app_controller.dart';
+import 'package:appchat/helpers/app_color.dart';
+import 'package:appchat/helpers/app_controller.dart';
 
 class CounterRemainingCircle extends StatelessWidget {
   const CounterRemainingCircle({super.key, required this.appController});

@@ -4,12 +4,12 @@ import 'dart:io';
 import 'package:bootstrap_icons/bootstrap_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:app/helpers/app_color.dart';
-import 'package:app/helpers/app_controller.dart';
-import 'package:app/helpers/utility.dart';
-import 'package:app/services/repository/user_repository.dart';
-import 'package:app/widgets/commons/cache_image.dart';
-import 'package:app/widgets/typewriter/type_text.dart';
+import 'package:appchat/helpers/app_color.dart';
+import 'package:appchat/helpers/app_controller.dart';
+import 'package:appchat/helpers/utility.dart';
+import 'package:appchat/services/repository/user_repository.dart';
+import 'package:appchat/widgets/commons/cache_image.dart';
+import 'package:appchat/widgets/typewriter/type_text.dart';
 import 'package:image_picker/image_picker.dart';
 
 class EditProfilePage extends StatelessWidget {

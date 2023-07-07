@@ -1,4 +1,4 @@
-package com.cognitaigpt.app
+package com.cognitaigpt.appchat
 
 import android.os.Bundle
 import io.flutter.embedding.android.FlutterActivity

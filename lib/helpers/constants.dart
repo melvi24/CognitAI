@@ -11,7 +11,7 @@ class Constants {
 
   //API Key Token ChatGPT OpenAI...esta es la api de open ai original
   static String apiKeyToken =
-      "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";
+      "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";
   //"<update with your OpenAPI Key Paid Account>";
   // https://platform.openai.com/signup
 

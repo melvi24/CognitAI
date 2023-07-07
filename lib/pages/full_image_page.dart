@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:app/widgets/commons/cache_image.dart';
+import 'package:appchat/widgets/commons/cache_image.dart';
 import 'package:get/get.dart';
 import 'package:photo_view/photo_view.dart';
 

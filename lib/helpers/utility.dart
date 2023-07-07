@@ -5,8 +5,8 @@ import 'package:intl/intl.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:encrypt/encrypt.dart' as encyrpt;
-import 'package:app/widgets/ball_loading/ball_bounce_loading.dart';
-import 'package:app/widgets/ball_loading/ball.dart';
+import 'package:appchat/widgets/ball_loading/ball_bounce_loading.dart';
+import 'package:appchat/widgets/ball_loading/ball.dart';
 
 class Utility {
   static String basename(String path) {
