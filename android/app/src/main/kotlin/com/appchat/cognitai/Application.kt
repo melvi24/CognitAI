@@ -1,4 +1,4 @@
-package com.cognitaigpt.appchat
+package com.appchat.cognitai
 
 import io.flutter.app.FlutterApplication
 
