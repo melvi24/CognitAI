@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:webview_flutter/webview_flutter.dart';
-import 'package:appchat/helpers/ads_helper.dart';
-import 'package:appchat/helpers/app_controller.dart';
-import 'package:appchat/helpers/constants.dart';
+import 'package:cognitai/helpers/ads_helper.dart';
+import 'package:cognitai/helpers/app_controller.dart';
+import 'package:cognitai/helpers/constants.dart';
 import 'package:bootstrap_icons/bootstrap_icons.dart';
-import 'package:appchat/helpers/utility.dart';
+import 'package:cognitai/helpers/utility.dart';
 
 class WebviewPage extends StatefulWidget {
   final String url;

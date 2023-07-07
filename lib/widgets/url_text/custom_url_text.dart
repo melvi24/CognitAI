@@ -1,7 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:appchat/pages/webview_page.dart';
+import 'package:cognitai/pages/webview_page.dart';
 
 class UrlText extends StatelessWidget {
   final String text;

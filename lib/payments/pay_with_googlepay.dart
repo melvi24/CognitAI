@@ -4,13 +4,13 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:pay/pay.dart';
-import 'package:appchat/app/home_page.dart';
-import 'package:appchat/helpers/app_controller.dart';
-import 'package:appchat/helpers/utility.dart';
-import 'package:appchat/models/payment_model.dart';
-import 'package:appchat/payments/models/gpay_response_model.dart';
-import 'package:appchat/payments/pay_with_paypal.dart';
-import 'package:appchat/services/repository/user_repository.dart';
+import 'package:cognitai/app/home_page.dart';
+import 'package:cognitai/helpers/app_controller.dart';
+import 'package:cognitai/helpers/utility.dart';
+import 'package:cognitai/models/payment_model.dart';
+import 'package:cognitai/payments/models/gpay_response_model.dart';
+import 'package:cognitai/payments/pay_with_paypal.dart';
+import 'package:cognitai/services/repository/user_repository.dart';
 import 'package:get/get.dart';
 
 class PayWithGooglePay extends StatelessWidget {

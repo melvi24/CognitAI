@@ -1,4 +1,4 @@
-import 'package:appchat/models/chat_model.dart';
+import 'package:cognitai/models/chat_model.dart';
 
 class ChatUserMessage {
   String? key;

@@ -1,9 +1,9 @@
 import 'dart:convert';
 
 import 'package:get/get.dart';
-import 'package:appchat/helpers/constants.dart';
-import 'package:appchat/helpers/my_pref.dart';
-import 'package:appchat/services/all_provider.dart';
+import 'package:cognitai/helpers/constants.dart';
+import 'package:cognitai/helpers/my_pref.dart';
+import 'package:cognitai/services/all_provider.dart';
 
 class ApiRepository {
   ApiRepository();

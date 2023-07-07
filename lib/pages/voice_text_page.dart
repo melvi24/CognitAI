@@ -7,17 +7,17 @@ import 'package:chat_gpt_sdk/chat_gpt_sdk.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:speech_to_text/speech_recognition_result.dart';
-import 'package:appchat/helpers/app_color.dart';
-import 'package:appchat/helpers/app_controller.dart';
-import 'package:appchat/helpers/constants.dart';
-import 'package:appchat/helpers/my_pref.dart';
-import 'package:appchat/helpers/translator_gpt.dart';
-import 'package:appchat/helpers/utility.dart';
-import 'package:appchat/helpers/extention.dart';
-import 'package:appchat/models/message_stream.dart';
-import 'package:appchat/models/speech_object.dart';
-import 'package:appchat/services/repository/user_repository.dart';
-import 'package:appchat/widgets/url_text/custom_url_text.dart';
+import 'package:cognitai/helpers/app_color.dart';
+import 'package:cognitai/helpers/app_controller.dart';
+import 'package:cognitai/helpers/constants.dart';
+import 'package:cognitai/helpers/my_pref.dart';
+import 'package:cognitai/helpers/translator_gpt.dart';
+import 'package:cognitai/helpers/utility.dart';
+import 'package:cognitai/helpers/extention.dart';
+import 'package:cognitai/models/message_stream.dart';
+import 'package:cognitai/models/speech_object.dart';
+import 'package:cognitai/services/repository/user_repository.dart';
+import 'package:cognitai/widgets/url_text/custom_url_text.dart';
 
 import 'package:speech_to_text/speech_to_text.dart' as stt;
 

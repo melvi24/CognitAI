@@ -1,5 +1,5 @@
 import 'package:chat_gpt_sdk/chat_gpt_sdk.dart';
-import 'package:appchat/helpers/my_pref.dart';
+import 'package:cognitai/helpers/my_pref.dart';
 
 class TranslatorGPT {
   String? defLang;

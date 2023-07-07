@@ -1,9 +1,9 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:appchat/pages/full_image_page.dart';
-import 'package:appchat/helpers/app_color.dart';
-import 'package:appchat/widgets/commons/cache_image.dart';
+import 'package:cognitai/pages/full_image_page.dart';
+import 'package:cognitai/helpers/app_color.dart';
+import 'package:cognitai/widgets/commons/cache_image.dart';
 import 'package:get/get.dart';
 import 'package:bootstrap_icons/bootstrap_icons.dart';
 

@@ -2,12 +2,12 @@ import 'package:bootstrap_icons/bootstrap_icons.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:appchat/helpers/app_color.dart';
-import 'package:appchat/helpers/app_controller.dart';
-import 'package:appchat/helpers/constants.dart';
-import 'package:appchat/pages/packages/package_order.dart';
-import 'package:appchat/widgets/swipeable_button_view/swipeable_button_view.dart';
-import 'package:appchat/pages/packages/widgets/card_package_item.dart';
+import 'package:cognitai/helpers/app_color.dart';
+import 'package:cognitai/helpers/app_controller.dart';
+import 'package:cognitai/helpers/constants.dart';
+import 'package:cognitai/pages/packages/package_order.dart';
+import 'package:cognitai/widgets/swipeable_button_view/swipeable_button_view.dart';
+import 'package:cognitai/pages/packages/widgets/card_package_item.dart';
 
 class PackagePage extends StatelessWidget {
   PackagePage({super.key, this.isBackForce}) {

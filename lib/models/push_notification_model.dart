@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:appchat/models/chat_model.dart';
+import 'package:cognitai/models/chat_model.dart';
 
 class PushNotificationModel {
   PushNotificationModel({

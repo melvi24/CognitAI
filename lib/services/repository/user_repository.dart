@@ -2,8 +2,8 @@ import 'dart:convert';
 
 import 'package:flutter/foundation.dart';
 import 'package:get/get.dart';
-import 'package:appchat/helpers/my_pref.dart';
-import 'package:appchat/services/all_provider.dart';
+import 'package:cognitai/helpers/my_pref.dart';
+import 'package:cognitai/services/all_provider.dart';
 
 class UserRepository {
   UserRepository();

@@ -1,13 +1,13 @@
 import 'package:bootstrap_icons/bootstrap_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:appchat/helpers/constants.dart';
-import 'package:appchat/pages/full_image_page.dart';
-import 'package:appchat/pages/webview_page.dart';
-import 'package:appchat/widgets/commons/counter_remaining_circle.dart';
-import 'package:appchat/helpers/app_controller.dart';
-import 'package:appchat/widgets/commons/cache_image.dart';
-import 'package:appchat/pages/edit_profile_page.dart';
+import 'package:cognitai/helpers/constants.dart';
+import 'package:cognitai/pages/full_image_page.dart';
+import 'package:cognitai/pages/webview_page.dart';
+import 'package:cognitai/widgets/commons/counter_remaining_circle.dart';
+import 'package:cognitai/helpers/app_controller.dart';
+import 'package:cognitai/widgets/commons/cache_image.dart';
+import 'package:cognitai/pages/edit_profile_page.dart';
 
 class ProfilePage extends StatelessWidget {
   const ProfilePage({super.key});

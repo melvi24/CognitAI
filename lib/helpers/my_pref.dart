@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:chat_gpt_sdk/chat_gpt_sdk.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:appchat/helpers/constants.dart';
+import 'package:cognitai/helpers/constants.dart';
 
 class MyPref {
   static MyPref get to => Get.find<MyPref>();

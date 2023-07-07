@@ -1,4 +1,4 @@
-import 'package:appchat/models/setting_model.dart';
+import 'package:cognitai/models/setting_model.dart';
 
 class APIObject {
   dynamic results;

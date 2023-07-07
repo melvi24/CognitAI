@@ -2,11 +2,11 @@ import 'package:bootstrap_icons/bootstrap_icons.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:appchat/helpers/app_color.dart';
-import 'package:appchat/helpers/constants.dart';
-import 'package:appchat/helpers/my_pref.dart';
-import 'package:appchat/helpers/translator_gpt.dart';
-import 'package:appchat/pages/webview_page.dart';
+import 'package:cognitai/helpers/app_color.dart';
+import 'package:cognitai/helpers/constants.dart';
+import 'package:cognitai/helpers/my_pref.dart';
+import 'package:cognitai/helpers/translator_gpt.dart';
+import 'package:cognitai/pages/webview_page.dart';
 
 class SettingPage extends StatelessWidget {
   SettingPage({super.key});

@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:appchat/models/user_model.dart';
+import 'package:cognitai/models/user_model.dart';
 
 class NotificationModel {
   String? id;

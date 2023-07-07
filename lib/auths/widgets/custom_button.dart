@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:appchat/helpers/constants.dart';
+import 'package:cognitai/helpers/constants.dart';
 
 class CustomButton extends StatelessWidget {
   final Color color;

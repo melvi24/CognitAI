@@ -6,12 +6,12 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:appchat/app/home_page.dart';
-import 'package:appchat/helpers/app_controller.dart';
-import 'package:appchat/helpers/constants.dart';
-import 'package:appchat/helpers/utility.dart';
-import 'package:appchat/models/payment_model.dart';
-import 'package:appchat/services/repository/user_repository.dart';
+import 'package:cognitai/app/home_page.dart';
+import 'package:cognitai/helpers/app_controller.dart';
+import 'package:cognitai/helpers/constants.dart';
+import 'package:cognitai/helpers/utility.dart';
+import 'package:cognitai/models/payment_model.dart';
+import 'package:cognitai/services/repository/user_repository.dart';
 
 class PayWithPaypal extends StatelessWidget {
   final dynamic itemToPay;

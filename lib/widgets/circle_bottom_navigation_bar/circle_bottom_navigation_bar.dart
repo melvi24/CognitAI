@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:appchat/widgets/circle_bottom_navigation_bar/widgets/circle_icon_color.dart';
-import 'package:appchat/widgets/circle_bottom_navigation_bar/widgets/tab_data.dart';
-import 'package:appchat/widgets/circle_bottom_navigation_bar/widgets/tab_item.dart';
-import 'package:appchat/widgets/circle_bottom_navigation_bar/utils/half_clipper.dart';
-import 'package:appchat/widgets/circle_bottom_navigation_bar/utils/half_painter.dart';
+import 'package:cognitai/widgets/circle_bottom_navigation_bar/widgets/circle_icon_color.dart';
+import 'package:cognitai/widgets/circle_bottom_navigation_bar/widgets/tab_data.dart';
+import 'package:cognitai/widgets/circle_bottom_navigation_bar/widgets/tab_item.dart';
+import 'package:cognitai/widgets/circle_bottom_navigation_bar/utils/half_clipper.dart';
+import 'package:cognitai/widgets/circle_bottom_navigation_bar/utils/half_painter.dart';
 
 /// Class [CircleBottomNavigationBar]:
 /// [key]: optional widget key reference

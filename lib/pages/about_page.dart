@@ -1,8 +1,8 @@
 import 'package:bootstrap_icons/bootstrap_icons.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:appchat/helpers/constants.dart';
-import 'package:appchat/pages/webview_page.dart';
+import 'package:cognitai/helpers/constants.dart';
+import 'package:cognitai/pages/webview_page.dart';
 
 class AboutPage extends StatelessWidget {
   AboutPage({super.key});

@@ -8,13 +8,13 @@ import 'package:get_storage/get_storage.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:page_transition/page_transition.dart';
-import 'package:appchat/app/home_page.dart';
-import 'package:appchat/auths/auth_screen.dart';
-import 'package:appchat/helpers/app_color.dart';
-import 'package:appchat/helpers/constants.dart';
-import 'package:appchat/helpers/app_controller.dart';
-import 'package:appchat/helpers/my_pref.dart';
-import 'package:appchat/pages/intro_page.dart';
+import 'package:cognitai/app/home_page.dart';
+import 'package:cognitai/auths/auth_screen.dart';
+import 'package:cognitai/helpers/app_color.dart';
+import 'package:cognitai/helpers/constants.dart';
+import 'package:cognitai/helpers/app_controller.dart';
+import 'package:cognitai/helpers/my_pref.dart';
+import 'package:cognitai/pages/intro_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
